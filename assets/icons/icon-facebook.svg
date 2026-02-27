@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<?xml-stylesheet href="icon-facebook.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25.8022mm" height="25.8022mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2519.67 2519.67"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+ <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-16711.63" y1="-25025.04" x2="-16711.63" y2="-25026.62">
+  <stop offset="0" style="stop-opacity:1; stop-color:#0062E0"/>
+  <stop offset="1" style="stop-opacity:1; stop-color:#19AFFF"/>
+ </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Facebook_f_logo__x0028_2021_x0029_.svg">
+   <path class="fil0" d="M1051.97 2507.08c-598.43,-107.09 -1051.97,-623.62 -1051.97,-1247.24 0,-692.9 566.94,-1259.84 1259.84,-1259.84 692.9,0 1259.84,566.94 1259.84,1259.84 0,623.62 -453.54,1140.15 -1051.94,1247.24l-69.29 -56.69 -277.2 -0.02 -69.28 56.71z"/>
+   <path class="fil1" d="M1751.18 1612.6l56.69 -352.76 -333.86 0 0 -245.68c0,-100.78 37.81,-176.36 188.99,-176.36l163.77 0 0 -321.26c-88.19,-12.6 -188.99,-25.19 -277.17,-25.19 -289.77,0 -491.34,176.37 -491.34,491.34l0 277.15 -314.96 0 0 352.76 314.96 0 0 888.17c69.28,12.6 138.58,18.91 207.87,18.91 69.28,0 138.58,-6.31 207.87,-18.91l0.02 -888.17 277.17 0z"/>
+  </g>
+ </g>
+</svg>
