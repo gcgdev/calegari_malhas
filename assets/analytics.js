@@ -158,6 +158,21 @@
     { passive: true }
   );
 
+  document.addEventListener(
+    "click",
+    function (event) {
+      var target = event.target.closest("[data-track-event]");
+      if (!target) return;
+
+      track(target.getAttribute("data-track-event"), {
+        link_url: target.href || "",
+        link_text: (target.textContent || "").trim().slice(0, 120),
+        location_path: window.location.pathname,
+      });
+    },
+    { passive: true }
+  );
+
   document.querySelectorAll("form[data-whatsapp-form]").forEach(function (form) {
     form.addEventListener(
       "submit",
